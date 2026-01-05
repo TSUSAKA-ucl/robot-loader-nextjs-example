@@ -15,7 +15,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
    pnpm add aframe
    pnpm add @ucl-nuee/robot-loader @ucl-nuee/ik-cd-worker
    pnpm add @ucl-nuee/ur5e
-   ``
+   ```
 7. run the asset copy script to copy necessary assets to the public folder:
    ```
    npx copy-assets
