@@ -1,0 +1,4 @@
+.a-enter-vr {
+  position: fixed !important;
+  z-index: 9999;
+}
